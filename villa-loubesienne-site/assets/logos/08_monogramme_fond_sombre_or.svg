@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="85" fill="#2A2A28" stroke="#C9A96E" stroke-width="2.5"/>
+  <text x="100" y="135" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="90" font-style="italic" font-weight="400" fill="#C9A96E">v</text>
+</svg>

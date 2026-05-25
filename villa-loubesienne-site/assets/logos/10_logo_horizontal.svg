@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160" width="600" height="160">
+  <rect width="600" height="160" fill="#FBF9F4"/>
+  <circle cx="80" cy="80" r="48" fill="none" stroke="#6B8E7F" stroke-width="2"/>
+  <text x="80" y="100" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-style="italic" font-weight="400" fill="#6B8E7F">v</text>
+  <line x1="150" y1="50" x2="150" y2="110" stroke="#E0DCD3" stroke-width="0.8"/>
+  <text x="175" y="80" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="500" letter-spacing="1.5" fill="#2A2A28">LA VILLA</text>
+  <text x="175" y="110" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic" font-weight="400" fill="#6B8E7F">Loubésienne</text>
+</svg>
